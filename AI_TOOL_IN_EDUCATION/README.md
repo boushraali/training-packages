@@ -43,3 +43,7 @@ By the end of the training, participants will be able to:
 - Apply critical thinking to evaluate AI-generated content.
 
 
+## 📂 Training Materials
+Access the full training materials, slides, and examples through the following link:  
+🔗 [Google Drive Folder](https://drive.google.com/drive/folders/1VFG9f4-vi9WHFx1Dkvwl57c3kY_24EHy?usp=sharing)
+
